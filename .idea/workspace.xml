@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c450578-8db5-41d9-be05-05ca8d6435af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_0/produccion/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_0/produccion/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_0/produccion/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_0/prueba/TestSizeBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_1/produccion/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_1/produccion/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_1/produccion/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_1/prueba/TestLimitBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sprint1_1/prueba/TestSizeBoard.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectId" id="2Od4SgRGNpvOUZjIBVRlyh4kCq9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/josepm12/IdeaProjects/SOS/src/main/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sprint1_0.produccion.Console" />
+      <module name="SOS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sprint1_0.produccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sprint1_0.produccion.GUI" />
+      <module name="SOS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sprint1_0.produccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSizeBoard.TestIncorrectSizeBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SOS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sprint1_0.prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sprint_1.prueba" />
+      <option name="MAIN_CLASS_NAME" value="sprint1_0.prueba.TestSizeBoard" />
+      <option name="METHOD_NAME" value="TestIncorrectSizeBoard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sprint1_0.prueba in SOS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SOS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sprint1_0.prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sprint1_0.prueba" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUI" />
+      <item itemvalue="Application.Console" />
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.sprint1_0.prueba in SOS" />
+      <item itemvalue="JUnit.TestSizeBoard.TestIncorrectSizeBoard" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="JUnit.sprint1_0.prueba in SOS" />
+        <item itemvalue="JUnit.TestSizeBoard.TestIncorrectSizeBoard" />
+        <item itemvalue="Application.Console" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c450578-8db5-41d9-be05-05ca8d6435af" name="Changes" comment="" />
+      <created>1681860123121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681860123121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SOS$sprint_1_prueba_in_SOS.ic" NAME="sprint_1.prueba in SOS Coverage Results" MODIFIED="1681877698208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sprint_1.prueba.*</FILTER>
+    </SUITE>
+  </component>
+</project>
